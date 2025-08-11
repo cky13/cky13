@@ -12,7 +12,6 @@
 </div>
 
 ###
-<h2 align="center">My tools and Technologies</h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -45,6 +44,10 @@
   <a href="https://paypal.me/ItsWhitelisted" target="_blank">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <h5 align="center">"A man's dreams have no end."</h5>
-  <h5 align="center">- Marshal D. Teach</h5>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/cky13/cky13/output/snake.svg" alt="Snake animation" />
+
+###
